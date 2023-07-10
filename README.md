@@ -10,6 +10,7 @@ Create .env file in root and add variable
 ```
     OPENAI_API_KEY=apikeyGottenFromOpenaapi
 ```
+#### Install dependencies
 ```
     npm install
 ```
